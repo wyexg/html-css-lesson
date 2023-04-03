@@ -1,0 +1,39 @@
+.div1{
+    border: 1px solid red;
+    background: rgb(133, 235, 133);
+    width: 30%;
+    display: inline-block;
+}
+#d1{
+    background: blue;
+    position: relative;
+    top: 50px;
+}
+#d2{
+    background: red;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+#d3{
+    position: absolute;
+    left: 10px;
+}
+#d4{
+height: 300px;
+width: 300px;
+background: yellow;
+position: relative;
+bottom: 10px;
+}
+#d5{
+    background: orchid;
+    position: absolute;
+    left: 10px;
+}
+
+
+
+#nav1{
+    position: sticky;
+    top: 0;}
